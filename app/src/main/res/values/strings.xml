@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practica1SumaDeNumeros</string>
+    <string name="app.main.hint">Ingresa un numero</string>
+    <string name="app.hint.et">Numero a sumar</string>
+</resources>
